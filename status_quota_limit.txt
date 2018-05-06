@@ -1,0 +1,778 @@
+{
+    "rate_limit_context": {
+        "access_token": "274237883-CNHKxhy7aHCIYMRIanLF4wWb2XCAmzA41gCQlh9Z"
+    },
+    "resources": {
+        "lists": {
+            "/lists/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/lists/memberships": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/lists/subscribers/show": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/lists/members": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/lists/subscriptions": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/lists/show": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/lists/ownerships": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/lists/subscribers": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/lists/members/show": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/lists/statuses": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            }
+        },
+        "application": {
+            "/application/rate_limit_status": {
+                "limit": 180,
+                "remaining": 177,
+                "reset": 1525622406
+            }
+        },
+        "mutes": {
+            "/mutes/users/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/mutes/users/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "live_video_stream": {
+            "/live_video_stream/status/:id": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            }
+        },
+        "friendships": {
+            "/friendships/outgoing": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friendships/list": {
+                "limit": 200,
+                "remaining": 200,
+                "reset": 1525622473
+            },
+            "/friendships/no_retweets/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friendships/lookup": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friendships/incoming": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friendships/show": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        },
+        "guide": {
+            "/guide": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        },
+        "auth": {
+            "/auth/csrf_token": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "blocks": {
+            "/blocks/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/blocks/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "geo": {
+            "/geo/similar_places": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/geo/id/:place_id": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/geo/reverse_geocode": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/geo/search": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "users": {
+            "/users/report_spam": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/users/contributors/pending": {
+                "limit": 2000,
+                "remaining": 2000,
+                "reset": 1525622473
+            },
+            "/users/show/:id": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/users/search": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/users/suggestions/:slug": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/users/contributees/pending": {
+                "limit": 200,
+                "remaining": 200,
+                "reset": 1525622473
+            },
+            "/users/derived_info": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/users/profile_banner": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/users/suggestions/:slug/members": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/users/lookup": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/users/suggestions": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "followers": {
+            "/followers/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/followers/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "collections": {
+            "/collections/list": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            },
+            "/collections/entries": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            },
+            "/collections/show": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            }
+        },
+        "statuses": {
+            "/statuses/retweeters/ids": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/statuses/retweets_of_me": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/statuses/home_timeline": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/statuses/show/:id": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/statuses/user_timeline": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            },
+            "/statuses/friends": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/statuses/retweets/:id": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/statuses/mentions_timeline": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/statuses/oembed": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/statuses/lookup": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            }
+        },
+        "custom_profiles": {
+            "/custom_profiles/list": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/custom_profiles/show": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        },
+        "webhooks": {
+            "/webhooks/subscriptions/direct_messages": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "contacts": {
+            "/contacts/uploaded_by": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/contacts/users": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/contacts/addressbook": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/contacts/users_and_uploaded_by": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/contacts/delete/status": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            }
+        },
+        "i": {
+            "/i/config": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "tweet_prompts": {
+            "/tweet_prompts/report_interaction": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/tweet_prompts/show": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        },
+        "moments": {
+            "/moments/statuses/update": {
+                "limit": 5,
+                "remaining": 5,
+                "reset": 1525622473
+            },
+            "/moments/permissions": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            }
+        },
+        "help": {
+            "/help/tos": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/help/configuration": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/help/settings": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/help/privacy": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/help/languages": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "feedback": {
+            "/feedback/show/:id": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/feedback/events": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            }
+        },
+        "business_experience": {
+            "/business_experience/dashboard_settings/destroy": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/business_experience/dashboard_features": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/business_experience/keywords": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/business_experience/dashboard_settings/update": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/business_experience/dashboard_settings/show": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            }
+        },
+        "friends": {
+            "/friends/following/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friends/following/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friends/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/friends/ids": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "sandbox": {
+            "/sandbox/account_activity/webhooks/:id/subscriptions": {
+                "limit": 500,
+                "remaining": 500,
+                "reset": 1525622473
+            }
+        },
+        "drafts": {
+            "/drafts/statuses/update": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/drafts/statuses/destroy": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/drafts/statuses/ids": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/drafts/statuses/list": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/drafts/statuses/show": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            },
+            "/drafts/statuses/create": {
+                "limit": 450,
+                "remaining": 450,
+                "reset": 1525622473
+            }
+        },
+        "direct_messages": {
+            "/direct_messages/sent": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/direct_messages/broadcasts/list": {
+                "limit": 60,
+                "remaining": 60,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/lists/members/show": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            },
+            "/direct_messages/mark_read": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/ids": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/direct_messages/sent_and_received": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/direct_messages/broadcasts/statuses/list": {
+                "limit": 60,
+                "remaining": 60,
+                "reset": 1525622473
+            },
+            "/direct_messages": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/lists/members/ids": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/show": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/direct_messages/broadcasts/show": {
+                "limit": 60,
+                "remaining": 60,
+                "reset": 1525622473
+            },
+            "/direct_messages/broadcasts/statuses/show": {
+                "limit": 60,
+                "remaining": 60,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/lists/list": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/direct_messages/show": {
+                "limit": 300,
+                "remaining": 300,
+                "reset": 1525622473
+            },
+            "/direct_messages/events/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/direct_messages/subscribers/lists/show": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            },
+            "/direct_messages/events/show": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "media": {
+            "/media/upload": {
+                "limit": 500,
+                "remaining": 500,
+                "reset": 1525622473
+            }
+        },
+        "traffic": {
+            "/traffic/map": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "account_activity": {
+            "/account_activity/all/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/all/:instance_name/subscriptions": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/direct_messages/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks/:id/subscriptions/direct_messages/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks/:id/subscriptions/all": {
+                "limit": 500,
+                "remaining": 500,
+                "reset": 1525622473
+            },
+            "/account_activity/direct_messages/:instance_name/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks/:id/subscriptions/all/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks/:id/subscriptions/direct_messages": {
+                "limit": 500,
+                "remaining": 500,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/direct_messages/:instance_name/subscriptions": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account_activity/webhooks/:id/subscriptions": {
+                "limit": 500,
+                "remaining": 500,
+                "reset": 1525622473
+            },
+            "/account_activity/all/:instance_name/webhooks": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "account": {
+            "/account/login_verification_enrollment": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account/update_profile": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/account/verify_credentials": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/account/settings": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "safety": {
+            "/safety/detection_feedback": {
+                "limit": 1000,
+                "remaining": 1000,
+                "reset": 1525622473
+            }
+        },
+        "favorites": {
+            "/favorites/list": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            }
+        },
+        "device": {
+            "/device/token": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "tweets": {
+            "/tweets/search/:product/:label": {
+                "limit": 1800,
+                "remaining": 1800,
+                "reset": 1525622473
+            },
+            "/tweets/search/:product/:instance/counts": {
+                "limit": 900,
+                "remaining": 900,
+                "reset": 1525622473
+            }
+        },
+        "saved_searches": {
+            "/saved_searches/destroy/:id": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/saved_searches/show/:id": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            },
+            "/saved_searches/list": {
+                "limit": 15,
+                "remaining": 15,
+                "reset": 1525622473
+            }
+        },
+        "search": {
+            "/search/tweets": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        },
+        "trends": {
+            "/trends/closest": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/trends/available": {
+                "limit": 75,
+                "remaining": 75,
+                "reset": 1525622473
+            },
+            "/trends/place": {
+                "limit": 75,
+                "remaining": 70,
+                "reset": 1525622074
+            }
+        },
+        "live_pipeline": {
+            "/live_pipeline/events": {
+                "limit": 180,
+                "remaining": 180,
+                "reset": 1525622473
+            }
+        }
+    }
+}

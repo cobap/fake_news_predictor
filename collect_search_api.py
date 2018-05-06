@@ -26,4 +26,5 @@ twitter = Twitter(auth=oauth)
 
 sfo_trends = twitter.trends.place(_id = 23424768)
 
-print(json.dumps(sfo_trends, indent=4))
+# print(json.dumps(sfo_trends, indent=4))
+#print(json.dumps(twitter.application.rate_limit_status(), indent=4))
