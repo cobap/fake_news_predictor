@@ -8,7 +8,7 @@ except ImportError:
 from twitter import Twitter, OAuth, TwitterHTTPError, TwitterStream
 import tokens as tokens
 
-oauth = OAuth(ACCESS_TOKEN, ACCESS_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
+oauth = OAuth(tokens.ACCESS_TOKEN, tokens.ACCESS_SECRET, tokens.CONSUMER_KEY, tokens.CONSUMER_SECRET)
 
 # Initiate the connection to Twitter Streaming API
 twitter_stream = TwitterStream(auth=oauth)
@@ -20,13 +20,13 @@ iterator = twitter_stream.statuses.sample()
 # Here we set it to stop after getting 1000 tweets.
 # You don't have to set it to stop, but can continue running
 # the Twitter API to collect data for days or even longer.
-tweet_count = 1000
+tweet_count = 10
 for tweet in iterator:
     tweet_count -= 1
     # Twitter Python Tool wraps the data returned by Twitter
     # as a TwitterDictResponse object.
     # We convert it back to the JSON format to print/score
-    print json.dumps(tweet)
+    print(json.dumps(tweet))
 
     # The command below will do pretty printing for JSON data, try it out
     # print json.dumps(tweet, indent=4)
