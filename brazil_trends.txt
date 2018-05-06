@@ -1,0 +1,217 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#Singularity",
+                "url": "http://twitter.com/search?q=%23Singularity",
+                "promoted_content": null,
+                "query": "%23Singularity",
+                "tweet_volume": 857397
+            },
+            {
+                "name": "#VoleiNaGlobo",
+                "url": "http://twitter.com/search?q=%23VoleiNaGlobo",
+                "promoted_content": null,
+                "query": "%23VoleiNaGlobo",
+                "tweet_volume": null
+            },
+            {
+                "name": "Marquinhos Gabriel",
+                "url": "http://twitter.com/search?q=%22Marquinhos+Gabriel%22",
+                "promoted_content": null,
+                "query": "%22Marquinhos+Gabriel%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SundaySdvFcs",
+                "url": "http://twitter.com/search?q=%23SundaySdvFcs",
+                "promoted_content": null,
+                "query": "%23SundaySdvFcs",
+                "tweet_volume": null
+            },
+            {
+                "name": "Evandro",
+                "url": "http://twitter.com/search?q=Evandro",
+                "promoted_content": null,
+                "query": "Evandro",
+                "tweet_volume": null
+            },
+            {
+                "name": "VAI CORINTHIANS",
+                "url": "http://twitter.com/search?q=%22VAI+CORINTHIANS%22",
+                "promoted_content": null,
+                "query": "%22VAI+CORINTHIANS%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DomingoDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23DomingoDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23DomingoDetremuraSDV",
+                "tweet_volume": 21571
+            },
+            {
+                "name": "#1DBBMAs",
+                "url": "http://twitter.com/search?q=%231DBBMAs",
+                "promoted_content": null,
+                "query": "%231DBBMAs",
+                "tweet_volume": 206497
+            },
+            {
+                "name": "Chelsea x Liverpool",
+                "url": "http://twitter.com/search?q=%22Chelsea+x+Liverpool%22",
+                "promoted_content": null,
+                "query": "%22Chelsea+x+Liverpool%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Vital e Pedrinho",
+                "url": "http://twitter.com/search?q=%22Vital+e+Pedrinho%22",
+                "promoted_content": null,
+                "query": "%22Vital+e+Pedrinho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Manchester City",
+                "url": "http://twitter.com/search?q=%22Manchester+City%22",
+                "promoted_content": null,
+                "query": "%22Manchester+City%22",
+                "tweet_volume": 27566
+            },
+            {
+                "name": "Pedro Henrique",
+                "url": "http://twitter.com/search?q=%22Pedro+Henrique%22",
+                "promoted_content": null,
+                "query": "%22Pedro+Henrique%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Esporte Espetacular",
+                "url": "http://twitter.com/search?q=%22Esporte+Espetacular%22",
+                "promoted_content": null,
+                "query": "%22Esporte+Espetacular%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ceara",
+                "url": "http://twitter.com/search?q=Ceara",
+                "promoted_content": null,
+                "query": "Ceara",
+                "tweet_volume": 13503
+            },
+            {
+                "name": "Childish Gambino",
+                "url": "http://twitter.com/search?q=%22Childish+Gambino%22",
+                "promoted_content": null,
+                "query": "%22Childish+Gambino%22",
+                "tweet_volume": 129126
+            },
+            {
+                "name": "Kabum",
+                "url": "http://twitter.com/search?q=Kabum",
+                "promoted_content": null,
+                "query": "Kabum",
+                "tweet_volume": null
+            },
+            {
+                "name": "Torino",
+                "url": "http://twitter.com/search?q=Torino",
+                "promoted_content": null,
+                "query": "Torino",
+                "tweet_volume": 14595
+            },
+            {
+                "name": "Fulham",
+                "url": "http://twitter.com/search?q=Fulham",
+                "promoted_content": null,
+                "query": "Fulham",
+                "tweet_volume": 13878
+            },
+            {
+                "name": "JOGAI POR N\u00d3S",
+                "url": "http://twitter.com/search?q=%22JOGAI+POR+N%C3%93S%22",
+                "promoted_content": null,
+                "query": "%22JOGAI+POR+N%C3%93S%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dire Wolves",
+                "url": "http://twitter.com/search?q=%22Dire+Wolves%22",
+                "promoted_content": null,
+                "query": "%22Dire+Wolves%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Barcelona x Real Madrid",
+                "url": "http://twitter.com/search?q=%22Barcelona+x+Real+Madrid%22",
+                "promoted_content": null,
+                "query": "%22Barcelona+x+Real+Madrid%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Matheus Matias",
+                "url": "http://twitter.com/search?q=%22Matheus+Matias%22",
+                "promoted_content": null,
+                "query": "%22Matheus+Matias%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MSI2018",
+                "url": "http://twitter.com/search?q=%23MSI2018",
+                "promoted_content": null,
+                "query": "%23MSI2018",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EXOL_\uc804\uad11\ud310\uc0ac\uac74_\uacf5\ub860\ud654",
+                "url": "http://twitter.com/search?q=%23EXOL_%EC%A0%84%EA%B4%91%ED%8C%90%EC%82%AC%EA%B1%B4_%EA%B3%B5%EB%A1%A0%ED%99%94",
+                "promoted_content": null,
+                "query": "%23EXOL_%EC%A0%84%EA%B4%91%ED%8C%90%EC%82%AC%EA%B1%B4_%EA%B3%B5%EB%A1%A0%ED%99%94",
+                "tweet_volume": 386740
+            },
+            {
+                "name": "#motogpnosportv",
+                "url": "http://twitter.com/search?q=%23motogpnosportv",
+                "promoted_content": null,
+                "query": "%23motogpnosportv",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BoraVoz\u00e3o",
+                "url": "http://twitter.com/search?q=%23BoraVoz%C3%A3o",
+                "promoted_content": null,
+                "query": "%23BoraVoz%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "#PraSairDoT\u00e9dioEu",
+                "url": "http://twitter.com/search?q=%23PraSairDoT%C3%A9dioEu",
+                "promoted_content": null,
+                "query": "%23PraSairDoT%C3%A9dioEu",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SMCASM",
+                "url": "http://twitter.com/search?q=%23SMCASM",
+                "promoted_content": null,
+                "query": "%23SMCASM",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MerciArs\u00e8ne",
+                "url": "http://twitter.com/search?q=%23MerciArs%C3%A8ne",
+                "promoted_content": null,
+                "query": "%23MerciArs%C3%A8ne",
+                "tweet_volume": 54819
+            }
+        ],
+        "as_of": "2018-05-06T15:39:48Z",
+        "created_at": "2018-05-06T15:35:33Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
